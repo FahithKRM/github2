@@ -1,6 +1,8 @@
-# include iostream;
-include using std;
+#include <iostream>
+using namespace std;
+
 int main(){
-  cout << "Welcome to cpp" << endl ;
+  cout << "Welcome to cpp" << endl;
   return 0;
+
 }
